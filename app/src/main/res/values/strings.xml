@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coffee Finder</string>
+    <string name="imgCoffeeTitle">Coffee Image</string>
+    <string name="imgStarbucks">Starbucks Logo</string>
+    <string name="txtStarbucksTitle">Starbucks</string>
+    <string name="txtStarbucksStreet">8801 4th St. N</string>
+    <string name="txt33702CSZ">St. Petersburg, FL 33702</string>
+    <string name="txtDunkinTitle">Dunkin\'</string>
+    <string name="txtDunkinStreet">7595 4th St. N</string>
+    <string name="txtStPeteBagelTitle">St. Pete Bagel Co.</string>
+    <string name="txtStPeteBagelStreet">7043 4th St. N</string>
+    <string name="txtWawaTitle">Wawa</string>
+    <string name="txtWawaStreet">8601 4th St. N</string>
+    <string name="imgDunkin">Dunkin\' Logo</string>
+    <string name="imgStPeteBagel">St. Pete Bagel Logo</string>
+    <string name="imgWawa">Wawa Logo</string>
+</resources>
